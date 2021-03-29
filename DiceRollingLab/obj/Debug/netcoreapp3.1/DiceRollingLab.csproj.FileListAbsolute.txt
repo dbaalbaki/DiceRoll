@@ -1,0 +1,13 @@
+C:\Users\dbaalbaki\dev\Week_4\DiceRollingLab\DiceRollingLab\bin\Debug\netcoreapp3.1\DiceRollingLab.exe
+C:\Users\dbaalbaki\dev\Week_4\DiceRollingLab\DiceRollingLab\bin\Debug\netcoreapp3.1\DiceRollingLab.deps.json
+C:\Users\dbaalbaki\dev\Week_4\DiceRollingLab\DiceRollingLab\bin\Debug\netcoreapp3.1\DiceRollingLab.runtimeconfig.json
+C:\Users\dbaalbaki\dev\Week_4\DiceRollingLab\DiceRollingLab\bin\Debug\netcoreapp3.1\DiceRollingLab.runtimeconfig.dev.json
+C:\Users\dbaalbaki\dev\Week_4\DiceRollingLab\DiceRollingLab\bin\Debug\netcoreapp3.1\DiceRollingLab.dll
+C:\Users\dbaalbaki\dev\Week_4\DiceRollingLab\DiceRollingLab\bin\Debug\netcoreapp3.1\DiceRollingLab.pdb
+C:\Users\dbaalbaki\dev\Week_4\DiceRollingLab\DiceRollingLab\obj\Debug\netcoreapp3.1\DiceRollingLab.csprojAssemblyReference.cache
+C:\Users\dbaalbaki\dev\Week_4\DiceRollingLab\DiceRollingLab\obj\Debug\netcoreapp3.1\DiceRollingLab.AssemblyInfoInputs.cache
+C:\Users\dbaalbaki\dev\Week_4\DiceRollingLab\DiceRollingLab\obj\Debug\netcoreapp3.1\DiceRollingLab.AssemblyInfo.cs
+C:\Users\dbaalbaki\dev\Week_4\DiceRollingLab\DiceRollingLab\obj\Debug\netcoreapp3.1\DiceRollingLab.csproj.CoreCompileInputs.cache
+C:\Users\dbaalbaki\dev\Week_4\DiceRollingLab\DiceRollingLab\obj\Debug\netcoreapp3.1\DiceRollingLab.dll
+C:\Users\dbaalbaki\dev\Week_4\DiceRollingLab\DiceRollingLab\obj\Debug\netcoreapp3.1\DiceRollingLab.pdb
+C:\Users\dbaalbaki\dev\Week_4\DiceRollingLab\DiceRollingLab\obj\Debug\netcoreapp3.1\DiceRollingLab.genruntimeconfig.cache
